@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+@keyframes marquee {
+  from { transform: translateX(100%); }
+  to { transform: translateX(-100%); }
+}
+
+@keyframes matrix-fall {
+  from { transform: translateY(-100%); }
+  to { transform: translateY(100vh); }
+}
+
+.animate-blink {
+  animation: blink 1s step-end infinite;
+}
+
+.animate-marquee {
+  animation: marquee 20s linear infinite;
+  display: block;
+}
+
+.animate-matrix-fall {
+  animation: matrix-fall linear infinite;
+  position: absolute;
+  top: 0;
+}
