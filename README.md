@@ -2,7 +2,7 @@
 
 A nostalgic web recreation of the iconic hacking sequences from the 1995 movie "The Net" starring Sandra Bullock. This interactive tribute recreates the famous "π" (pi) symbol hack scene where the character Angela Bennett discovers a backdoor into a system.
 
-![The Internet 1995](https://i.imgur.com/JGzGeQh.png)
+![The Internet 1995](https://www.imdb.com/title/tt0113957/))
 
 ## About The Project
 
