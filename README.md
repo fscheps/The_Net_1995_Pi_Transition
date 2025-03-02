@@ -19,7 +19,7 @@ The web recreation features:
 
 ## Live Demo
 
-Check out the live demo: [The Internet 1995](https://glittering-panda-18927f.netlify.app/)
+Check out the live demo: [The Internet 1995](https://internet-1995.netlify.app/)
 
 ## How To Use
 
